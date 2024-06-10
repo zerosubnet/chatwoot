@@ -10,6 +10,7 @@ on:
     branches:
       - develop
       - master
+      - add-arm64-support
     tags:
       - v*
   workflow_dispatch:
